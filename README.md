@@ -1,3 +1,5 @@
+<!DOCTYPE HTML>
+
 <TITLE>* 각자의 봄 *</TITLE>
 <META CHARSET="UTF-8">
 <HEAD><h1> 각자의 봄 </h1></HEAD>
@@ -10,9 +12,9 @@
   <strong>집에갈래 !</strong></p>
 
 <oL>
-  <li>컴활 1급 필기</li>
-  <li>컴활 1급 실기</li>
-  <li>유연성/근력 기르기</li>
+  <li><input type="checkbox">컴활 1급 필기</li>
+  <li><input type="checkbox">컴활 1급 실기</li>
+  <li><input type="checkbox">유연성/근력 기르기</li>
 </oL>
 
 <ul>
